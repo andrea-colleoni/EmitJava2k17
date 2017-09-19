@@ -7,6 +7,7 @@ public class Pippo {
 		
 		// nuovo commento per GIT!!
 		// Ciao da Marzio
+		// Ciao da Enrico
 		
 	}
 }
