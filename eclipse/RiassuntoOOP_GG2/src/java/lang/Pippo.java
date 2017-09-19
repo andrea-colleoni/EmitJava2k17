@@ -6,6 +6,7 @@ public class Pippo {
 		String saluto = "ciao";
 		
 		// nuovo commento per GIT!!
+		// Ciao da Marzio
 		
 	}
 }
