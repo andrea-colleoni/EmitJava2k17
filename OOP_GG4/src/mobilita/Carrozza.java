@@ -6,7 +6,8 @@ public class Carrozza extends Veicolo {
 		super();
 		//TipoTrazione tipoTrazione = new TipoTrazione();
 		//tipoTrazione.trazioneAnimale = true;
-		this.ambientDiFunzionamento = Ambiente.TERRA;
+		
+		aggiungiAmbiente(Ambiente.TERRA);
 		this.tipoTrazione = new TrazioneAnimale();
 	}
 
