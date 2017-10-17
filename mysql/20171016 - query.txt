@@ -1,0 +1,18 @@
+1. elencare tutti i film (visualizzando tutte le colonne)
+2. elencare tutti i film con: title, description e release_year
+3. elencare tutti gli attori (visualizzando tutte le colonne)
+4. elencare tutti gli attori con id (una colonna) e nome/cognome in una sola altra colonna (due colonne in tutto) [usare concat(first_name, ' ', last_name)]
+5. elencare tutti i film con title, description e durata in ore (1 ora = 60 minuti)
+6. elencare i film più lunghi di 90 minuti
+7. elencare i film pubblicati nell'anno 2006
+8. elencare i film pubblicati tra il 2006 e il 2010
+9. elencare i film pubblicati tra il 2006 e il 2010 più brevi di 100 minuti
+10. elencare i film pubblicati tra il 2006 e il 2010 più brevi di 1,5 ore
+11. elencare i film con title, description e lingua (colonna language_id)
+12. elencare i film con title, description e categoria
+13. elencare i film con titolo e nome/cognome degli attori del cast
+14. elencare i film della categoria 'Documentary' con titolo e nome/cognome degli attori del cast
+15. elencare i film della categoria 'Documentary' con titolo e nome/cognome degli attori del cast prodotti prima del 2005 o dopo il 2010
+16. elencare i film della categoria 'Documentary' con titolo e nome/cognome degli attori del cast prodotti prima del 2005 o dopo il 2010 più lunghi di 100 minuti
+17. elencare i film con titolo e nome/cognome degli attori del cast prodotti prima del 2005 e più brevi di 100 minuti o dopo il 2010 ma più lunghi di 100 minuti
+18. elencare gli attori con nome/cognome e nome della categoria di film in cui appaiono nel cast

@@ -1,0 +1,15 @@
+1. contare i film
+2. contare i film suddividendoli per rating
+3. contare i film suddividendoli per rental_duration
+4. determinare la durata massima, minima, media e totale dei film
+5. determinare la durata massima, minima, media e totale dei film suddividendoli per rating
+6. determinare la durata massima, minima, media e totale dei film suddividendoli per categoria
+7. contare quanti in quanti film ciascun attore ha recitato
+8. calcolare i minuti totali (durata dei film) in cui ciascun attore ha recitato e mostrarli in ordine decrescente
+9. contare in quante diverse categorie di film ciascun attore ha recitato
+10. determinare il prezzo medio di noleggio dei film per categoria
+11. ipotizzando di applicare uno sconto casuale tra il 10% e il 20% sul prezzo di noleggio di ciascun film, determinare il totale complessivo del costo di noleggio dei film con rating 'G' suddiviso per categoria
+12. elencare gli attori che hanno recitato in più di 3 film della categoria 'Action'
+13. elencare gli attori che non hanno recitato in alcun film
+14. elencare le categorie inutilizzate (che non hanno alcun film nel catalogo)
+15. stilare una classifica degli attori in base al prezzo medio di noleggio dei film in cui hanno recitato
